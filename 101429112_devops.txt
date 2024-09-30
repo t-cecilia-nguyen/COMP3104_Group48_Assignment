@@ -19,3 +19,4 @@ Week 6: Continuous
 Integration /
 Continuous
 Deployment
+Week 7: Mid Term Exam

@@ -8,3 +8,4 @@ industry standard toolkit. Create solutions to complex business problems by adhe
 responsibilities of DevOps.
 
 Week 1: Introduction
+Week 2, 3: Git

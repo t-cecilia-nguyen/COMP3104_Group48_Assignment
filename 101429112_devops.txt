@@ -6,3 +6,5 @@ engineer brings to a workplace environment to increase productivity. Analyze and
 various developer operation implementations available and implement hands-on work using
 industry standard toolkit. Create solutions to complex business problems by adhering to the core
 responsibilities of DevOps.
+
+Week 1: Introduction

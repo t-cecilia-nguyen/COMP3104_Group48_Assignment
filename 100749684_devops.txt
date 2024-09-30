@@ -7,3 +7,12 @@ They will analyze and evaluate different DevOps implementations and engage in ha
 
 The course also focuses on creating solutions to complex business problems by following core DevOps responsibilities.
 
+EVALUATION SYSTEM:
+The passing grade for this course is: _D (50%)
+
+Lab Exercises - 16%
+Lecture Quizzes - 8%
+Assignment (Individual) - 10%
+Assignment (Group) - 16%
+Mid-term Exam - 20%
+Final Exam - 30%

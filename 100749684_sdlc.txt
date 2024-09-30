@@ -5,4 +5,7 @@ leading to faster and more efficient software delivery.
 
 It improves software quality through continuous feedback and automation, ensuring consistency and reducing errors.
 
+Additionally, it promotes automation and standardization,
+which not only saves time and costs but also ensures consistency across different environments.
+
 DevOps enables teams to meet market demands more effectively by delivering high-quality software at a quicker pace.

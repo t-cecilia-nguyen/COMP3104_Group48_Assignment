@@ -9,3 +9,4 @@ responsibilities of DevOps.
 
 Week 1: Introduction
 Week 2, 3: Git
+Week 4: Devops role and responsibilities

@@ -15,3 +15,7 @@ Geared Single
 Page Applications
 & Work tracking
 tools
+Week 6: Continuous
+Integration /
+Continuous
+Deployment

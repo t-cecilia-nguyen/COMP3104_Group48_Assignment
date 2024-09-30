@@ -10,3 +10,8 @@ responsibilities of DevOps.
 Week 1: Introduction
 Week 2, 3: Git
 Week 4: Devops role and responsibilities
+Week 5: Hosting High
+Geared Single
+Page Applications
+& Work tracking
+tools

@@ -1,0 +1,22 @@
+Information about the COMP 3104
+DevOps course.
+
+In this course students will learn the procedures, protocols and best practices that a DevOps
+engineer brings to a workplace environment to increase productivity. Analyze and evaluate
+various developer operation implementations available and implement hands-on work using
+industry standard toolkit. Create solutions to complex business problems by adhering to the core
+responsibilities of DevOps.
+
+Week 1: Introduction
+Week 2, 3: Git
+Week 4: Devops role and responsibilities
+Week 5: Hosting High
+Geared Single
+Page Applications
+& Work tracking
+tools
+Week 6: Continuous
+Integration /
+Continuous
+Deployment
+Week 7: Mid Term Exam

@@ -5,3 +5,16 @@ George Brown College is a Canadian applied arts and technology college located i
 downtown Toronto, Ontario. originally established in 1967, it is known for its diverse set 
 
 of full-time programs offered, such as early childhood education, culinary arts, and computer programming.
+
+George Brown College has expanded over the years since its inception, having over three separate campuses 
+
+spread throughout downtown Toronto:
+
+1. Casa Loma Campus (160 Kendal Avenue) - Centre for Construction / Engineering Technologies, Arts / Design & 
+   Information Technologies, and Prepatory / Liberal Studies.
+
+2. St. James Campus (200 King St E) - Centre for Business, Hospitality / Culinary Arts, Media & Performing Arts, 
+   Community Services & Early Childhood.
+
+3. Waterfront Campus (51 Dockside Drive) - The Daphne Cockwell Centre for Health Sciences, 
+   and the School of Design.

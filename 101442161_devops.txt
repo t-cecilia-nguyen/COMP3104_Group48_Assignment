@@ -1,0 +1,11 @@
+Information about the COMP 3104 DevOps Course:
+
+COMP 3104's DevOps course focuses on teaching the procedures, protocols and best 
+
+practices of DevOps, so that students can use this knowledge to increase 
+
+productivity when in a workplace environment. The course expects upon completion that 
+
+students will develop the ability to effectively demonstrate DevOps techniques, understand 
+
+industry standard techniquessuch as CI (Continous Integration) and application containerization.

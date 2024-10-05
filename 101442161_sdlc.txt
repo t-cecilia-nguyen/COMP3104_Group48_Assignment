@@ -10,4 +10,12 @@ at a more efficient pace, by integrating automation. This approach allows closer
 
 between development and operations teams, improving communication as a whole and creating
 
-the best possible environment to create a high quality software.
+the best possible environment to create a high quality software. DevOps' methodology allows 
+
+a large degree of flexibility, allowing teams to adapt their product to any potential needs that 
+
+may arise. DevOps' focus on constant review and communication between teams further improves the ability
+
+to accurately monitor the product at every stage of the process, reducing complications and improving the 
+
+time it would take to find a solution should an issue arise.

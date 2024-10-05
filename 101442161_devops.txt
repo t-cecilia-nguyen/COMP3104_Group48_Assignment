@@ -9,3 +9,12 @@ productivity when in a workplace environment. The course expects upon completion
 students will develop the ability to effectively demonstrate DevOps techniques, understand 
 
 industry standard techniquessuch as CI (Continous Integration) and application containerization.
+
+The COMP 3104 course assesses students based on the following assessment breakdown over the 15-week course:
+
+1. Weekly Quizzes (Worth 8%) - Due every week on Sunday
+2. Weekly Lab Exercises (Worth 16%) - Due every week on Sunday 
+3. Group Assignment (Worth 16%) - Due Week 6
+4. Mid-term Exam (Worth 20%) - Week 7
+5. Individual Assignment (Worth 10%) - Due Week 12
+6. Final Exam (Worth 30%) - Week 15

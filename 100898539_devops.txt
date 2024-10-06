@@ -1,1 +1,3 @@
 Information about the COMP 3104
+
+Using DevOps practices effectively will allow for a process predicated on ease to ship code to Production servers, apply hot-fixes, catch errors before they produce some sort of unintended behavior and keep transparency & communication heightened across all teams. Looking at the software development lifecycle through the lens of a DevOps Engineer will produce a more informed and qualified developer.

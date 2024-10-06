@@ -4,7 +4,7 @@
 - **Leader:** Trang Nguyen (100749684) - [GitHub](https://github.com/t-cecilia-nguyen)
 - **Member 2:**  Nhu Ly (101429112) - [GitHub](https://github.com/nhunique)
 - **Member 3:**  Adam Simcoe (101442161) - [GitHub](https://github.com/AdamSimcoe)
-- **Member 4:** (#) - [GitHub](#)
+- **Member 4:**  Nhan Tran (100898539) - [GitHub](https://github.com/nk-tran)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on
